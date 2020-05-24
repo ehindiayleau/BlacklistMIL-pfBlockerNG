@@ -7,6 +7,8 @@ https://raw.githubusercontent.com/ehindiayleau/BlacklistMIL-pfBlockerNG/master/b
 
 Set update to never if needed, as this will most likely not be updated for awhile.
 
+The optional blacklistmil_rootservers.txt includes the root servers run by the military.
+
 This is a single file version of the Windows Firewall batch script version I created. Further information can be found on that page at: https://github.com/ehindiayleau/BlacklistMIL
 
 Feel free to use and modify as needed, as addresses will need to be rechecked at some point. No potential issues at this time.
