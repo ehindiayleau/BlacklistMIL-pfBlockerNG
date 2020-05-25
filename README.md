@@ -5,7 +5,7 @@ Use the following in pfBlockerNG:
 
 https://raw.githubusercontent.com/ehindiayleau/BlacklistMIL-pfBlockerNG/master/blacklistmil_pfblockerng.txt
 
-Do to changing IP addresses, many of these will need to be checked again.
+Due to changing IP addresses, many of these will need to be checked again.
 
 The optional blacklistmil_rootservers.txt includes the root servers run by the military.
 
